@@ -23,7 +23,7 @@ control de rentabilidad por servicio y recordatorios automáticos de mantenimien
 
 ## Qué resuelve
 
-Un taller mecánico chico maneja todo su historial de servicios en papel, WhatsApp o
+Un taller mecánico maneja todo su historial de servicios en papel, WhatsApp o
 planillas sueltas. Este sistema centraliza esa información: cada vehículo tiene su
 propio historial digital accesible por QR, cada service queda registrado con su
 costo real y lo cobrado, y el dueño del taller puede ver de un vistazo cuánto está
