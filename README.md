@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/static/logo.png" alt="Pablo Inyección y Electricidad" width="110">
+<img src="docs/screenshots/logo.png" alt="Pablo Inyección y Electricidad" width="130">
 
 # Pablo Inyección — Sistema de Gestión de Taller
 
